@@ -41,6 +41,8 @@
   justify-content: space-around;
   list-style: none;
   cursor: pointer;
-  padding-left: 200%;
+  padding-left: 600%;
+  align-items: end;
+
   /* background-color: lightgreen; */
 }
