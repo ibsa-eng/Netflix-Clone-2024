@@ -36,7 +36,7 @@
   /* background-color: lightblue; */
 }
 .header_right ul {
-  width: 80%;
+  width: 160%;
   display: flex;
   justify-content: space-around;
   list-style: none;
